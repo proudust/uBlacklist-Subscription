@@ -1,6 +1,9 @@
 *://*.boom-app.wiki/*
 *://appmedia.jp/*
+*://game8.jp/*
 *://gameranbu.jp/*
+*://gamerch.com/*
+*://gamewith.jp/*
 *://ja.coder.work/*
 *://matukusu-game.xyz/*
 *://syoyougame.jp/*
