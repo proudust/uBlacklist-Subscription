@@ -1,0 +1,9 @@
+*://*.boom-app.wiki/*
+*://appmedia.jp/*
+*://gameranbu.jp/*
+*://ja.coder.work/*
+*://matukusu-game.xyz/*
+*://syoyougame.jp/*
+*://techacademy.jp/*
+*://www.it-swarm.dev/*
+*://www.sejuku.net/*
