@@ -1,5 +1,7 @@
 *://*.boom-app.wiki/*
+*://agency-star.co.jp/*
 *://appmedia.jp/*
+*://game.manga-joho.com/*
 *://game8.jp/*
 *://gameranbu.jp/*
 *://gamerch.com/*
