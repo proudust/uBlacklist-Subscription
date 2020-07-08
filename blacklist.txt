@@ -1,6 +1,9 @@
 *://*.boom-app.wiki/*
+*://*.developreference.com/*
 *://agency-star.co.jp/*
 *://appmedia.jp/*
+*://code.i-harness.com/*
+*://codeday.me/*
 *://game.manga-joho.com/*
 *://game8.jp/*
 *://gameranbu.jp/*
@@ -8,7 +11,12 @@
 *://gamewith.jp/*
 *://ja.coder.work/*
 *://matukusu-game.xyz/*
+*://qa.codeflow.site/*
+*://qastack.jp/*
+*://stackoverrun.com/*
 *://syoyougame.jp/*
 *://techacademy.jp/*
+*://www.366service.com/*
 *://www.it-swarm.dev/*
 *://www.sejuku.net/*
+*://www.voidcc.com/*
