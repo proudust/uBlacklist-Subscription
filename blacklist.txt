@@ -12,7 +12,6 @@
 *://ja.coder.work/*
 *://matukusu-game.xyz/*
 *://qa.codeflow.site/*
-*://qastack.jp/*
 *://stackoverrun.com/*
 *://syoyougame.jp/*
 *://techacademy.jp/*
@@ -20,3 +19,4 @@
 *://www.it-swarm.dev/*
 *://www.sejuku.net/*
 *://www.voidcc.com/*
+/qastack\.(com\.)?\w+/
