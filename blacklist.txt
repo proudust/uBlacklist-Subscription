@@ -8,6 +8,7 @@
 *://*.voidcc.com/*
 *://365airsoft.com/*
 *://agency-star.co.jp/*
+*://alwaysemmyhope.com/*
 *://answer-id.com/*
 *://answeright.com/*
 *://appmedia.jp/*
@@ -19,6 +20,7 @@
 *://bildiredi.com/*
 *://bonprog.com/*
 *://brokencontrollers.com/*
+*://bugsdb.com/*
 *://ciupacabra.com/*
 *://code-adviser.com/*
 *://code-examples.net/*
@@ -52,6 +54,7 @@
 *://kompsekret.ru/*
 *://kotaeta.com/*
 *://legkovopros.ru/*
+*://living-sun.com/*
 *://matukusu-game.xyz/*
 *://myht.ru/*
 *://oipapio.com/*
@@ -69,6 +72,7 @@
 *://qarus.ru/*
 *://quabr.com/*
 *://quick-geek.github.io/*
+*://riptutorial.com/*s
 *://rstopup.com/*
 *://soinside.com/*
 *://sozdizimi.com/*
@@ -91,6 +95,7 @@
 *://web-answers.ru/*
 *://while-do.com/*
 *://www.366service.com/*
+*://www.it-swarm-ja.tech/*
 *://www.it-swarm.dev/*
 *://www.sejuku.net/*
 *://www.voidcc.com/*
