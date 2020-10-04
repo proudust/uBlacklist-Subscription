@@ -50,7 +50,6 @@
 *://it-swarm.xyz/*
 *://itdaan.com/*
 *://itranslater.com/*
-*://iwhqa.lostbooks.net/*
 *://ja.coder.work/*
 *://kompsekret.ru/*
 *://kotaeta.com/*
@@ -114,3 +113,8 @@
 *://filemagic.com/*
 *://files.biz/*
 *://htofe.com/*
+
+# Spam?
+*://daijoubu-hai.osyaberiina.com/*
+*://iwhqa.lostbooks.net/*
+*://rnazzy.question2answer.website/*
