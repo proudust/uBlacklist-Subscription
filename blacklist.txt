@@ -50,6 +50,7 @@
 *://it-swarm.xyz/*
 *://itdaan.com/*
 *://itranslater.com/*
+*://iwhqa.lostbooks.net/*
 *://ja.coder.work/*
 *://kompsekret.ru/*
 *://kotaeta.com/*
