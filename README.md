@@ -1,7 +1,19 @@
 # uBlacklist-Subscription
 
-Blacklist for *uBlacklist*. Hides inferior information such as corporate game wikis and machine translations from search results.
-*uBlacklist* 用のブラックリストです。検索結果から[企業系ゲーム wiki](http://arcadia11.hatenablog.com/entry/2018/03/13/224433) や[機械翻訳](https://note.com/lab1092/n/n1e2edef438fd)などの質の低い情報を非表示にします。
+Blacklist for *uBlacklist*.  
+Hides the following inferior information from search results:
+
+- Corporate game wikis
+- Machine translations of StackOverflow and file extension information
+
+----
+
+*uBlacklist* 用のブラックリストです。  
+検索結果から以下のような質の低い情報を非表示にします。
+
+- [企業系ゲーム wiki](http://arcadia11.hatenablog.com/entry/2018/03/13/224433)
+- [StackOverflow などを機械翻訳したサイト](https://note.com/lab1092/n/n1e2edef438fd)
+- [ファイルの拡張子情報を機械翻訳したサイト](https://anond.hatelabo.jp/20180823062542)
 
 ## Usage
 

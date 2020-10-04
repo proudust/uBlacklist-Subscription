@@ -104,3 +104,13 @@
 *://xszz.org/*
 *://zapytay.com/*
 /qastack\.(com\.)?\w+/
+
+# File extension
+*://*.fileextension.info/*
+*://*.thefile.org/*
+*://extension.info/*
+*://file-extension.info/*
+*://file-extension.org/*
+*://filemagic.com/*
+*://files.biz/*
+*://htofe.com/*
