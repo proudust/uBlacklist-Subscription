@@ -1,3 +1,4 @@
+# Uncategorized
 *://*.boom-app.wiki/*
 *://*.coredump.biz/*
 *://*.develop-bugs.com/*
@@ -114,7 +115,19 @@
 *://files.biz/*
 *://htofe.com/*
 
-# Spam?
+# Search obstruction
+*://fuanclinc.com/*
+
+# StackOverflow machine translation site
+*://python5.com/*
+*://steakrecords.com/*
+
+# Unsafe sites
+*://*.fjallraven-kanken-russia.ru/*
+*://212f1c8dd8.boroffice.ru/*
+*://2tfosz.4pu.com/*
+*://55478o.edns.biz/*
 *://daijoubu-hai.osyaberiina.com/*
 *://iwhqa.lostbooks.net/*
 *://rnazzy.question2answer.website/*
+*://www.cygnus.com/*
