@@ -1,5 +1,31 @@
-# Uncategorized
+# Corporate game wikis
 *://*.boom-app.wiki/*
+*://appmedia.jp/*
+*://game.manga-joho.com/*
+*://game8.jp/*
+*://gameranbu.jp/*
+*://gamerch.com/*
+*://matukusu-game.xyz/*
+*://syoyougame.jp/*
+
+# File extension
+*://*.fileextension.info/*
+*://*.thefile.org/*
+*://extension.info/*
+*://file-extension.info/*
+*://file-extension.org/*
+*://filemagic.com/*
+*://files.biz/*
+*://htofe.com/*
+
+# Programing school
+*://techacademy.jp/*
+*://www.sejuku.net/*
+
+# Search obstruction
+*://fuanclinc.com/*
+
+# StackOverflow machine translation site
 *://*.coredump.biz/*
 *://*.develop-bugs.com/*
 *://*.developreference.com/*
@@ -8,11 +34,9 @@
 *://*.uwenku.com/*
 *://*.voidcc.com/*
 *://365airsoft.com/*
-*://agency-star.co.jp/*
 *://alwaysemmyhope.com/*
 *://answer-id.com/*
 *://answeright.com/*
-*://appmedia.jp/*
 *://ask-ubuntu.ru/*
 *://askdev.info/*
 *://askdev.ru/*
@@ -37,10 +61,6 @@
 *://exceptionshub.com/*
 *://ffff65535.com/*
 *://fooobar.com/*
-*://game.manga-joho.com/*
-*://game8.jp/*
-*://gameranbu.jp/*
-*://gamerch.com/*
 *://husl.ru/*
 *://icode9.com/*
 *://intellipaat.com/*
@@ -56,15 +76,14 @@
 *://kotaeta.com/*
 *://legkovopros.ru/*
 *://living-sun.com/*
-*://matukusu-game.xyz/*
 *://myht.ru/*
 *://oipapio.com/*
 *://overcoder.net/*
 *://profikoder.com/*
 *://progaide.com/*
 *://progexact.com/*
-*://programmerz.ru/*
 *://pytannie.com/*
+*://python5.com/*
 *://qa-help.ru/*
 *://qa.1r1g.com/*
 *://qa.codeflow.site/*
@@ -73,7 +92,7 @@
 *://qarus.ru/*
 *://quabr.com/*
 *://quick-geek.github.io/*
-*://riptutorial.com/*s
+*://riptutorial.com/*
 *://rstopup.com/*
 *://soinside.com/*
 *://sozdizimi.com/*
@@ -86,9 +105,8 @@
 *://stackru.com/*
 *://stackz.ru/en/*
 *://stackz.ru/ru/*
+*://steakrecords.com/*
 *://switch-case.ru/*
-*://syoyougame.jp/*
-*://techacademy.jp/*
 *://thinbug.com/*
 *://ubuntugeeks.com/*
 *://v-resheno.ru/*
@@ -98,36 +116,20 @@
 *://www.366service.com/*
 *://www.it-swarm-ja.tech/*
 *://www.it-swarm.dev/*
-*://www.sejuku.net/*
 *://www.voidcc.com/*
 *://xbuba.com/*
 *://xszz.org/*
 *://zapytay.com/*
 /qastack\.(com\.)?\w+/
 
-# File extension
-*://*.fileextension.info/*
-*://*.thefile.org/*
-*://extension.info/*
-*://file-extension.info/*
-*://file-extension.org/*
-*://filemagic.com/*
-*://files.biz/*
-*://htofe.com/*
-
-# Search obstruction
-*://fuanclinc.com/*
-
-# StackOverflow machine translation site
-*://python5.com/*
-*://steakrecords.com/*
-
 # Unsafe sites
 *://*.fjallraven-kanken-russia.ru/*
 *://212f1c8dd8.boroffice.ru/*
 *://2tfosz.4pu.com/*
 *://55478o.edns.biz/*
+*://casino-pin-up-official.win/
 *://daijoubu-hai.osyaberiina.com/*
 *://iwhqa.lostbooks.net/*
+*://programmerz.ru/*
 *://rnazzy.question2answer.website/*
 *://www.cygnus.com/*
