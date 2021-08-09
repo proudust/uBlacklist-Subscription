@@ -24,6 +24,7 @@
 
 # Search obstruction
 *://fuanclinc.com/*
+*://hicimos-aqui.fun/*
 
 # StackOverflow machine translation site
 *://*.coredump.biz/*
@@ -51,6 +52,7 @@
 *://code-examples.net/*
 *://code.i-harness.com/*
 *://codeday.me/*
+*://codehero.jp/*
 *://codeindex.ru/*
 *://codengineering.ru/*
 *://coderoad.ru/*
@@ -108,12 +110,14 @@
 *://steakrecords.com/*
 *://switch-case.ru/*
 *://thinbug.com/*
+*://tutorialmore.com/*
 *://ubuntugeeks.com/*
 *://v-resheno.ru/*
 *://vike.io/*
 *://web-answers.ru/*
 *://while-do.com/*
 *://www.366service.com/*
+*://www.fixes.pub/*
 *://www.it-swarm-ja.tech/*
 *://www.it-swarm.dev/*
 *://www.voidcc.com/*
