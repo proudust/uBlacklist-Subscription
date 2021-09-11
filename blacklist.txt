@@ -64,6 +64,7 @@
 *://ffff65535.com/*
 *://fooobar.com/*
 *://husl.ru/*
+*://ichi.pro/*
 *://icode9.com/*
 *://intellipaat.com/*
 *://issue.life/*
