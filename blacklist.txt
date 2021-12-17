@@ -26,6 +26,11 @@
 *://fuanclinc.com/*
 *://hicimos-aqui.fun/*
 
+# Duplicate from GitHub issues
+*://gitanswer.com/*
+*://issueexplorer.com/*
+*://lifesaver.codes/*
+
 # StackOverflow machine translation site
 *://*.coredump.biz/*
 *://*.develop-bugs.com/*
@@ -51,6 +56,7 @@
 *://code-adviser.com/*
 *://code-examples.net/*
 *://code.i-harness.com/*
+*://codechacha.com/*
 *://codeday.me/*
 *://codehero.jp/*
 *://codeindex.ru/*
@@ -135,6 +141,7 @@
 *://casino-pin-up-official.win/
 *://daijoubu-hai.osyaberiina.com/*
 *://iwhqa.lostbooks.net/*
+*://mexstroda.blogspot.com/*
 *://programmerz.ru/*
 *://rnazzy.question2answer.website/*
 *://www.cygnus.com/*
