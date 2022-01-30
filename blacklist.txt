@@ -9,14 +9,19 @@
 *://syoyougame.jp/*
 
 # File extension
+*://*.file-extension.org/*
 *://*.fileextension.info/*
+*://*.scriptcult.com/*
 *://*.thefile.org/*
 *://extension.info/*
+*://fes.wiki/*
 *://file-extension.info/*
-*://file-extension.org/*
+*://fileinfo.jp/*
 *://filemagic.com/*
 *://files.biz/*
 *://htofe.com/*
+*://submitfile.com/*
+*://www.filetypes.jp/*
 
 # Programing school
 *://techacademy.jp/*
