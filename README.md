@@ -3,8 +3,8 @@
 Blacklist for *uBlacklist*.  
 Hides the following inferior information from search results:
 
-- Corporate game wikis
-- Machine translations of StackOverflow and file extension information
+- Poor corporate game wiki
+- Machine translations of StackOverflow, GitHub Issues and file extension information
 
 ----
 
@@ -12,10 +12,13 @@ Hides the following inferior information from search results:
 検索結果から以下のような質の低い情報を非表示にします。
 
 - [企業系ゲーム wiki](http://arcadia11.hatenablog.com/entry/2018/03/13/224433)
-- [StackOverflow などを機械翻訳したサイト](https://note.com/lab1092/n/n1e2edef438fd)
+- [StackOverflow や GitHub Issues などを機械翻訳したサイト](https://note.com/lab1092/n/n1e2edef438fd)
 - [ファイルの拡張子情報を機械翻訳したサイト](https://anond.hatelabo.jp/20180823062542)
 
 ## Usage
+
+Require install uBlacklist:
+uBlacklist のインストールが必要です。
 
 - [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
 - [Firefox Browser Addons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
