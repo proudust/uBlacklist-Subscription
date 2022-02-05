@@ -114,6 +114,7 @@
 *://src-bin.com/*
 *://stackanswers.net/*
 *://stackoom.com/*
+*://stackovergo.com/*
 *://stackovernet.com/*
 *://stackoverrun.com/*
 *://stackru.com/*
