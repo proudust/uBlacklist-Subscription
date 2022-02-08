@@ -132,6 +132,7 @@
 *://while-do.com/*
 *://www.366service.com/*
 *://www.fixes.pub/*
+*://www.fonedog.jp/*
 *://www.it-swarm-ja.tech/*
 *://www.it-swarm.dev/*
 *://www.voidcc.com/*
