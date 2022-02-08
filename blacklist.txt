@@ -40,6 +40,7 @@
 *://*.coredump.biz/*
 *://*.develop-bugs.com/*
 *://*.developreference.com/*
+*://*.getdocs.org/*
 *://*.programqa.com/*
 *://*.switch-case.com/*
 *://*.uwenku.com/*
