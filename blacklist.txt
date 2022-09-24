@@ -37,6 +37,7 @@
 *://lifesaver.codes/*
 
 # StackOverflow machine translation site
+*://*.appsloveworld.com/*
 *://*.binarydevelop.com/*
 *://*.coredump.biz/*
 *://*.develop-bugs.com/*
