@@ -36,7 +36,7 @@
 *://issueexplorer.com/*
 *://lifesaver.codes/*
 
-# StackOverflow machine translation site
+# StackOverflow and other site machine translation site
 *://*.appsloveworld.com/*
 *://*.binarydevelop.com/*
 *://*.coredump.biz/*
@@ -89,6 +89,7 @@
 *://itdaan.com/*
 *://itranslater.com/*
 *://ja.coder.work/*
+*://jpdebug.com/*
 *://kompsekret.ru/*
 *://kotaeta.com/*
 *://legkovopros.ru/*
