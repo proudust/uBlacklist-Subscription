@@ -49,6 +49,7 @@
 *://*.voidcc.com/*
 *://365airsoft.com/*
 *://alwaysemmyhope.com/*
+*://angularfixing.com/*
 *://answer-id.com/*
 *://answeright.com/*
 *://ask-ubuntu.ru/*
