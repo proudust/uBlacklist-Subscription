@@ -42,6 +42,7 @@
 *://*.coredump.biz/*
 *://*.develop-bugs.com/*
 *://*.developreference.com/*
+*://*.extends.run/*
 *://*.getdocs.org/*
 *://*.programqa.com/*
 *://*.switch-case.com/*
