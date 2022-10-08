@@ -47,6 +47,7 @@
 *://*.developerload.com/*
 *://*.extends.run/*
 *://*.getdocs.org/*
+*://*.likecs.com/*
 *://*.programqa.com/*
 *://*.switch-case.com/*
 *://*.uwenku.com/*
