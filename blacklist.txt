@@ -32,6 +32,8 @@
 *://hicimos-aqui.fun/*
 
 # Duplicate from GitHub issues
+*://bytemeta.vip/*
+*://codesti.com/*
 *://gitanswer.com/*
 *://issueexplorer.com/*
 *://lifesaver.codes/*
