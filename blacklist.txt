@@ -35,6 +35,7 @@
 *://bytemeta.vip/*
 *://codesti.com/*
 *://gitanswer.com/*
+*://issueantenna.com/*
 *://issueexplorer.com/*
 *://lifesaver.codes/*
 
