@@ -44,8 +44,8 @@
 *://*.binarydevelop.com/*
 *://*.coredump.biz/*
 *://*.develop-bugs.com/*
-*://*.developreference.com/*
 *://*.developerload.com/*
+*://*.developreference.com/*
 *://*.extends.run/*
 *://*.getdocs.org/*
 *://*.likecs.com/*
@@ -53,7 +53,11 @@
 *://*.switch-case.com/*
 *://*.uwenku.com/*
 *://*.voidcc.com/*
+*://*.web-dev-qa-db-ja.com/*
+*://*.web-development-kb-ja.site/*
+*://*.webpuroguramingu-zhi-wen-ying-dashisutemu.com/*
 *://365airsoft.com/*
+*://9to5answer.com/*
 *://alwaysemmyhope.com/*
 *://angularfixing.com/*
 *://answer-id.com/*
