@@ -82,6 +82,7 @@
 *://codengineering.ru/*
 *://coderoad.ru/*
 *://coderquestion.ru/*
+*://configlinux.com/*
 *://de-vraag.com/*
 *://donolik.com/*
 *://e-learn.cn/*
