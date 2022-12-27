@@ -52,6 +52,7 @@
 *://*.likecs.com/*
 *://*.programqa.com/*
 *://*.switch-case.com/*
+*://*.teknikmark.com/*
 *://*.uwenku.com/*
 *://*.voidcc.com/*
 *://*.web-dev-qa-db-ja.com/*
@@ -102,6 +103,7 @@
 *://it-swarm.net/*
 *://it-swarm.xyz/*
 *://itdaan.com/*
+*://itigic.com/*
 *://itranslater.com/*
 *://ja.coder.work/*
 *://jpdebug.com/*
@@ -162,6 +164,7 @@
 
 # Unsafe sites
 *://*.fjallraven-kanken-russia.ru/*
+*://*.uta5.com/*
 *://212f1c8dd8.boroffice.ru/*
 *://2tfosz.4pu.com/*
 *://55478o.edns.biz/*
