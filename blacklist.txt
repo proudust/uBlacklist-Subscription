@@ -25,6 +25,7 @@
 
 # Programing school
 *://techacademy.jp/*
+*://web-camp.io/*
 *://www.sejuku.net/*
 
 # Search obstruction
