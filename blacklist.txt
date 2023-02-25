@@ -175,5 +175,6 @@
 *://iwhqa.lostbooks.net/*
 *://mexstroda.blogspot.com/*
 *://programmerz.ru/*
+*://rentry.jp/*
 *://rnazzy.question2answer.website/*
 *://www.cygnus.com/*
