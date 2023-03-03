@@ -61,6 +61,7 @@
 *://*.webpuroguramingu-zhi-wen-ying-dashisutemu.com/*
 *://365airsoft.com/*
 *://9to5answer.com/*
+*://9to5tutorial.com/*
 *://abundantcode.com/*
 *://alwaysemmyhope.com/*
 *://angularfixing.com/*
