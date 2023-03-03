@@ -146,6 +146,7 @@
 *://stackz.ru/ru/*
 *://steakrecords.com/*
 *://switch-case.ru/*
+*://system2.wiki/*
 *://thinbug.com/*
 *://tutorialmore.com/*
 *://ubuntugeeks.com/*
