@@ -23,7 +23,8 @@
 *://submitfile.com/*
 *://www.filetypes.jp/*
 
-# Programing school
+# Low Quality
+*://*.keicode.com/*
 *://techacademy.jp/*
 *://web-camp.io/*
 *://www.sejuku.net/*
