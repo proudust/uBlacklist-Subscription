@@ -117,6 +117,7 @@
 *://legkovopros.ru/*
 *://living-sun.com/*
 *://myht.ru/*
+*://nagasaki-noc.ne.jp/*
 *://oipapio.com/*
 *://oneechanblog.com/*
 *://overcoder.net/*
