@@ -25,6 +25,8 @@
 
 # Low Quality
 *://*.keicode.com/*
+*://ittrip.xyz/*
+*://saiteki-ai.com/*
 *://techacademy.jp/*
 *://web-camp.io/*
 *://www.sejuku.net/*
