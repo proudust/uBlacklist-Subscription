@@ -41,7 +41,6 @@
 *://gitanswer.com/*
 *://issueantenna.com/*
 *://issueexplorer.com/*
-*://lifesaver.codes/*
 
 # StackOverflow and other site machine translation site
 *://*.appsloveworld.com/*
@@ -96,7 +95,6 @@
 *://donolik.com/*
 *://e-learn.cn/*
 *://emanuelosc.org/*
-*://exceptionshub.com/*
 *://ffff65535.com/*
 *://fooobar.com/*
 *://husl.ru/*
@@ -105,11 +103,10 @@
 *://iifx.dev/*
 *://intellipaat.com/*
 *://issue.life/*
-*://it.in-jpn.com/*
 *://it-swarm.asia/*
-*://it-swarm.dev/*
 *://it-swarm.net/*
 *://it-swarm.xyz/*
+*://it.in-jpn.com/*
 *://itdaan.com/*
 *://itecnote.com/*
 *://itigic.com/*
@@ -168,7 +165,8 @@
 *://www.fixes.pub/*
 *://www.fonedog.jp/*
 *://www.it-swarm-ja.tech/*
-*://www.it-swarm.dev/*
+*://www.living-sun.com/*
+*://www.stackoverrun.com/*
 *://www.voidcc.com/*
 *://xbuba.com/*
 *://xszz.org/*
