@@ -24,9 +24,12 @@
 *://www.filetypes.jp/*
 
 # Low Quality
+*://*.aetheria.jp/*
 *://*.keicode.com/*
 *://*.snowsystem.net/*
+*://it-notes.stylemap.co.jp/*
 *://ittrip.xyz/*
+*://mobiletechlead.com/*
 *://saiteki-ai.com/*
 *://techacademy.jp/*
 *://web-camp.io/*
@@ -140,6 +143,7 @@
 *://quick-geek.github.io/*
 *://riptutorial.com/*
 *://rstopup.com/*
+*://runebook.dev/*
 *://soinside.com/*
 *://sozdizimi.com/*
 *://sprosi.pro/*
