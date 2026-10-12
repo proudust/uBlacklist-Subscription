@@ -25,6 +25,7 @@
 
 # Low Quality
 *://*.keicode.com/*
+*://*.snowsystem.net/*
 *://ittrip.xyz/*
 *://saiteki-ai.com/*
 *://techacademy.jp/*
@@ -46,6 +47,7 @@
 *://*.appsloveworld.com/*
 *://*.binarydevelop.com/*
 *://*.coredump.biz/*
+*://*.delftstack.com/*
 *://*.develop-bugs.com/*
 *://*.developerload.com/*
 *://*.developreference.com/*
